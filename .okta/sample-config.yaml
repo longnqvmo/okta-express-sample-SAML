@@ -1,6 +1,6 @@
 oauthClient:
   redirectUris:
-    - http://localhost:1337/authorization-code/callback
+    - http://localhost:1337/login/callback
   applicationType: web
 trustedOrigins:
   - http://localhost:1337/
